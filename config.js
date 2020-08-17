@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Spectral', // <title>
-  manifestName: 'Spectral',
+  siteTitle: 'Lewis A Campbell', // <title>
+  manifestName: 'Lewis A Campbell',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
@@ -8,27 +8,33 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'Lewis A Campbell',
+  subHeading: 'Music composer',
   // social
   socialLinks: [
     {
       style: 'brands',
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/lewiscampbellx/',
     },
     {
       style: 'brands',
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/lewiscampbellx',
+    },
+    {
+      style: 'brands',
+      icon: 'fa-linkedin',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/lewis-campbell-a38546134/',
     },
     {
       style: 'solid',
       icon: 'fa-envelope',
       name: 'Email',
-      url: 'mailto:test@example.com',
+      url: 'mailto:lewisacampbell99@gmail.com',
     },
   ],
 };
