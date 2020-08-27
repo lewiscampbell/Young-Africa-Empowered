@@ -28,7 +28,7 @@ module.exports = {
       style: 'brands',
       icon: 'fa-linkedin',
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/lewis-campbell-a38546134/',
+      url: 'https://www.linkedin.com/in/lewis-a-campbell-a38546134/',
     },
     {
       style: 'solid',
