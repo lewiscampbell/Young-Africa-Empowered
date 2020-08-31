@@ -162,7 +162,7 @@ const IndexPage = () => (
     <section id="cta" className="wrapper style4">
       <div className="inner">
         <header>
-          <h2>Conact</h2>
+          <h2>Contact</h2>
           <p>
             For all inquiries please email: lewisacampbell99@gmail.com
           </p>
