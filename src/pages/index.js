@@ -117,6 +117,7 @@ const IndexPage = () => (
                 <p>Writer: Zuheir Kredieh</p>
                 <br />
                 <p>An IndieX Film Festival winner.</p>  
+                <p>A London Rocks Film Festival winner.</p>  
                 <p>A Brighton Rocks Film Festival nomination.</p>
               </div>
       </section>
