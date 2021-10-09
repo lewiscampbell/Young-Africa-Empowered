@@ -11,6 +11,7 @@ import see_you_tomorrow from '../assets/images/see_you_tomorrow.jpg';
 import the_lost_soul from '../assets/images/the_lost_soul.jpg';
 import him from '../assets/images/him.jpg';
 import rewind from '../assets/images/rewind.jpg';
+import TBM_logo from '../assets/images/TBM_logo.jpeg';
 import config from '../../config';
 const IndexPage = () => (
   <Layout>
@@ -105,6 +106,26 @@ const IndexPage = () => (
     
 
     <section id="two" className="wrapper alt style2">
+    <section className="spotlight">
+              <div className="image">
+                <img src={TBM_logo} alt="" />
+              </div>
+        <div className="content">
+        <h2>
+            The Black Monologues
+          </h2>
+          <p>Website: <a href="https://www.theblackmonologues.com/" target="_blank" >theblackmonologues.com</a></p>
+          <p>Producer: Funmi-Obsidian (Obi) Àyànmọ́</p>
+          <br></br>
+          <a href="https://open.spotify.com/episode/1N3j6W1on9xLK8ANNRJi3f?si=pE92bJwdR1e-KN81s2-5xw&dl_branch=1" target="_blank" >Godalyn's Episode</a>
+          <br></br>
+          <a href="https://open.spotify.com/episode/0zLLj6UMUOIqUYKgr2wFcG?si=6P0S4_a6Sw25KQlP7NWXGw&dl_branch=1" target="_blank" >Michael's Episode</a>
+          <br></br>
+          <a href="https://open.spotify.com/episode/3xOyziv3Y9N2XdjllIFSbA?si=717ZPU2cSCexCrox0NS9WA&dl_branch=1" target="_blank" >Katie's Episode</a>
+          <br></br>
+          <a href="https://open.spotify.com/episode/09TnE70Zkg0idt0QWozT0s?si=kp1SORW5SAi3Sayttzqm0g&dl_branch=1" target="_blank" >Edwin's Episode</a>
+        </div>
+      </section>
       <section className="spotlight">
               <div className="image">
                 <img src={see_you_tomorrow} alt="" />
