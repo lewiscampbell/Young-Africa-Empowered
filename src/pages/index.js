@@ -117,7 +117,7 @@ const IndexPage = () => (
           <p>Website: <a href="https://www.theblackmonologues.com/" target="_blank" >theblackmonologues.com</a></p>
           <p>Producer: Funmi-Obsidian (Obi) Àyànmọ́</p>
           <br></br>
-          <h4>Lewis' Episodes</h4>
+          <h4>Lewis' Episodes:</h4>
           <a href="https://open.spotify.com/episode/1N3j6W1on9xLK8ANNRJi3f?si=pE92bJwdR1e-KN81s2-5xw&dl_branch=1" target="_blank" >Godalyn's Episode</a>
           <br></br>
           <a href="https://open.spotify.com/episode/0zLLj6UMUOIqUYKgr2wFcG?si=6P0S4_a6Sw25KQlP7NWXGw&dl_branch=1" target="_blank" >Michael's Episode</a>
